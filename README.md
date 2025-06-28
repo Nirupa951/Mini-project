@@ -1,2 +1,2 @@
 # Mini-project
-Streamlit Application
+Placement Eligibility Streamlit Application
